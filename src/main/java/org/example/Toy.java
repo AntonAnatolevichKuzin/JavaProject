@@ -1,3 +1,5 @@
+package org.example;
+
 public class Toy {
     private int id;
     private String name;
